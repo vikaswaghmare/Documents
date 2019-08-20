@@ -28,4 +28,6 @@ System.out.println(" idNo:\t"+e2.idno+"\n emp Name:\t"+e2.ename+"\n Name of the 
   }
 vikas waghmare
 
+nice to have frds like u
+
 }
